@@ -13,7 +13,6 @@
 <p align="center">
    <img src="https://user-images.githubusercontent.com/32924675/172057790-1733a1f2-a811-43a7-bdf9-4d240339a5d9.png">
 </p>
-![image](https://user-images.githubusercontent.com/32924675/172057790-1733a1f2-a811-43a7-bdf9-4d240339a5d9.png)
 Затем, считая параметры неизвестными, был использован метод Гаусса-Ньютона для их нахождения. Начальные значения для поиска были выбраны равные x0 = 0.3, y0 = 1.8, σ = 2.5. График пространственной гауссоиды с найденным параметрами показан на рисунке 2.
 <p align="center">
    <img src="https://user-images.githubusercontent.com/32924675/172057797-6b63c5d6-41eb-483a-83c0-7be8ddb65081.png">
@@ -23,6 +22,17 @@
 </p>
 
 <h2>Исследование целевых функций:</h2>
+<p>Файл rosenbrock.py</p>
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/32924675/172115616-307f08b4-e059-43a9-bd87-d3d17c07059e.png"><br>
+   Рисунок - Квадратичная целевая функция
+</p>
+
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/32924675/172115794-d9bb8ad1-4d90-4ec4-8e88-4acd342af8eb.png"><br>
+   Рисунок - Функция Розенброка
+
+</p>
 
 <h2>Моделирование случайной величины</h2>
 <p>Файл nonlinear_regression.py</p>
